@@ -1,0 +1,288 @@
+[00:00:02.846] Server  LOG     
+[00:00:02.847] Server  LOG       We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[00:00:02.847] Server  LOG       The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+[00:00:02.847] Server  LOG       	- include was updated to add '.next/dev/types/**/*.ts'
+[00:00:02.847] Server  LOG     
+[00:00:02.848] Server  LOG       The following mandatory changes were made to your tsconfig.json:
+
+[00:00:02.848] Server  LOG       	- jsx was set to react-jsx (next.js uses the React automatic runtime)
+[00:00:02.848] Server  LOG     
+[00:00:03.051] Server  LOG     ✓ Ready in 2.8s
+[00:00:05.473] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:18.660] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:03.207] Server  LOG     ✓ Compiled in 195ms
+[00:02:19.480] Server  LOG     ✓ Compiled in 32ms
+[00:02:54.313] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:36.218] Server  ERROR   ⨯ ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+
+[00:04:36.344] Browser ERROR   ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+[00:04:37.126] Browser ERROR   ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+[00:04:37.126] Browser ERROR   ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+[00:04:37.856] Browser ERROR   ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+[00:04:37.862] Server  ERROR   ⨯ ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+
+[00:04:37.878] Server  ERROR   ⨯ ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+
+[00:04:37.889] Server  ERROR   ⨯ ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+
+[00:04:37.937] Server  ERROR   ⨯ ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+
+[00:04:37.949] Server  ERROR   ⨯ ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+
+[00:04:38.083] Browser ERROR   uncaughtError: Error: ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+
+[00:04:38.270] Browser ERROR   ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+[00:04:38.270] Browser ERROR   ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+[00:04:41.382] Server  ERROR   ⨯ ./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+
+
+./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+
+[00:04:42.097] Browser ERROR   uncaughtError: Error: ./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+
+[00:04:42.258] Browser ERROR   ./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+[00:04:42.258] Browser ERROR   ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+[00:04:42.258] Browser ERROR   ./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+[00:04:42.258] Browser ERROR   ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+[00:04:46.556] Server  ERROR   ⨯ ./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+
+
+./app/faq
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/faq and /faq.
+
+
+./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+
+[00:04:46.570] Server  ERROR   ⨯ ./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+
+
+./app/faq
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/faq and /faq.
+
+
+./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+
+[00:04:46.764] Browser ERROR   uncaughtError: Error: ./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+
+[00:04:46.908] Browser ERROR   ./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+[00:04:46.908] Browser ERROR   ./app/faq
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/faq and /faq.
+[00:04:46.908] Browser ERROR   ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+[00:04:46.908] Browser ERROR   ./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+[00:04:46.908] Browser ERROR   ./app/faq
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/faq and /faq.
+[00:04:46.908] Browser ERROR   ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+[00:04:51.826] Server  ERROR   ⨯ ./app/contacto
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/contacto and /contacto.
+
+
+./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+
+
+./app/faq
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/faq and /faq.
+
+
+./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+
+[00:04:52.038] Browser ERROR   uncaughtError: Error: ./app/contacto
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/contacto and /contacto.
+
+[00:04:52.177] Browser ERROR   ./app/contacto
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/contacto and /contacto.
+[00:04:52.177] Browser ERROR   ./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+[00:04:52.177] Browser ERROR   ./app/faq
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/faq and /faq.
+[00:04:52.177] Browser ERROR   ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+[00:04:52.177] Browser ERROR   ./app/contacto
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/contacto and /contacto.
+[00:04:52.177] Browser ERROR   ./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+[00:04:52.177] Browser ERROR   ./app/faq
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/faq and /faq.
+[00:04:52.177] Browser ERROR   ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+[00:04:56.752] Server  ERROR   ⨯ ./app/privacidad
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/privacidad and /privacidad.
+
+
+./app/contacto
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/contacto and /contacto.
+
+
+./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+
+
+./app/faq
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/faq and /faq.
+
+
+./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+
+[00:04:56.760] Server  ERROR   ⨯ ./app/privacidad
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/privacidad and /privacidad.
+
+
+./app/contacto
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/contacto and /contacto.
+
+
+./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+
+
+./app/faq
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/faq and /faq.
+
+
+./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+
+[00:04:56.965] Browser ERROR   uncaughtError: Error: ./app/privacidad
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/privacidad and /privacidad.
+
+[00:04:57.101] Browser ERROR   ./app/privacidad
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/privacidad and /privacidad.
+[00:04:57.101] Browser ERROR   ./app/contacto
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/contacto and /contacto.
+[00:04:57.101] Browser ERROR   ./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+[00:04:57.101] Browser ERROR   ./app/faq
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/faq and /faq.
+[00:04:57.101] Browser ERROR   ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+[00:04:57.101] Browser ERROR   ./app/privacidad
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/privacidad and /privacidad.
+[00:04:57.101] Browser ERROR   ./app/contacto
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/contacto and /contacto.
+[00:04:57.101] Browser ERROR   ./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+[00:04:57.101] Browser ERROR   ./app/faq
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/faq and /faq.
+[00:04:57.101] Browser ERROR   ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+[00:05:01.508] Server  ERROR   ⨯ ./app/privacidad
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/privacidad and /privacidad.
+
+
+./app/terminos
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/terminos and /terminos.
+
+
+./app/contacto
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/contacto and /contacto.
+
+
+./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+
+
+./app/faq
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/faq and /faq.
+
+
+./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+
+[00:05:01.718] Browser ERROR   uncaughtError: Error: ./app/privacidad
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/privacidad and /privacidad.
+
+[00:05:01.857] Browser ERROR   ./app/privacidad
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/privacidad and /privacidad.
+[00:05:01.857] Browser ERROR   ./app/terminos
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/terminos and /terminos.
+[00:05:01.857] Browser ERROR   ./app/contacto
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/contacto and /contacto.
+[00:05:01.857] Browser ERROR   ./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+[00:05:01.857] Browser ERROR   ./app/faq
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/faq and /faq.
+[00:05:01.857] Browser ERROR   ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+[00:05:01.857] Browser ERROR   ./app/privacidad
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/privacidad and /privacidad.
+[00:05:01.857] Browser ERROR   ./app/terminos
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/terminos and /terminos.
+[00:05:01.857] Browser ERROR   ./app/contacto
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/contacto and /contacto.
+[00:05:01.857] Browser ERROR   ./app/dispositivos
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/dispositivos and /dispositivos.
+[00:05:01.857] Browser ERROR   ./app/faq
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/faq and /faq.
+[00:05:01.857] Browser ERROR   ./app/servicios
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/servicios and /servicios.
+[00:05:07.718] Server  ERROR   ⨯ ./app/privacidad
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/privacidad and /privacidad.
+
+
+./app/terminos
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/terminos and /terminos.
+
+
+./app/contacto
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/contacto and /contacto.
+
+
+./app/faq
+You cannot have two parallel pages that resolve to the same path. Please check /(marketing)/faq and /faq.
+
+[00:05:08.024] Browser ERROR   uncaughtError: Error: ./app/privacidad
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/privacidad and /privacidad.
+
+[00:05:08.252] Browser ERROR   ./app/terminos
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/terminos and /terminos.
+[00:05:08.252] Browser ERROR   ./app/terminos
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/terminos and /terminos.
+[00:05:08.252] Browser ERROR   ./app/terminos
+You cannot have two parallel pages that resolve to the same path. Please check /(legal)/terminos and /terminos.
+[00:05:09.191] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:27.090] Server  LOG     ✓ Compiled in 121ms
+[00:09:24.556] Server  LOG     ✓ Compiled in 155ms
+[00:11:01.565] Server  LOG     ✓ Compiled in 145ms
+[00:15:38.547] Server  LOG     ✓ Compiled in 1119ms
+[00:17:13.062] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:19.403] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:00.282] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:07.701] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:31.544] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:03.826] Server  LOG     ✓ Compiled in 186ms
+[00:26:30.850] Server  LOG     ✓ Compiled in 69ms
+[00:26:41.707] Server  LOG     ✓ Compiled in 105ms
+[00:26:53.768] Server  LOG     ✓ Compiled in 173ms
+[00:27:04.818] Server  LOG     ✓ Compiled in 95ms

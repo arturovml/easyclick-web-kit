@@ -1,0 +1,12 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/health/route": "/api/health",
+  "/contacto/page": "/contacto",
+  "/dispositivos/page": "/dispositivos",
+  "/faq/page": "/faq",
+  "/page": "/",
+  "/privacidad/page": "/privacidad",
+  "/servicios/page": "/servicios",
+  "/terminos/page": "/terminos"
+}
