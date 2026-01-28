@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/arturovargas/Documents/Github/easyclick-web-kit/easyclick-web-kit/app/layout.tsx"],"sourcesContent":["import type { ReactNode } from \"react\";\n\nimport \"../styles/globals.css\";\n\ntype RootLayoutProps = {\n  children: ReactNode;\n};\n\nexport default function RootLayout({ children }: RootLayoutProps) {\n  return (\n    <html lang=\"es\">\n      <body>{children}</body>\n    </html>\n  );\n}\n"],"names":[],"mappings":";;;;;;;AAQe,SAAS,WAAW,EAAE,QAAQ,EAAmB;IAC9D,qBACE,8OAAC;QAAK,MAAK;kBACT,cAAA,8OAAC;sBAAM;;;;;;;;;;;AAGb"}},
-    {"offset": {"line": 31, "column": 0}, "map": {"version":3,"sources":["file:///Users/arturovargas/Documents/Github/easyclick-web-kit/easyclick-web-kit/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,4HACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0]}}]
-}

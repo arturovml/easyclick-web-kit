@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///Users/arturovargas/Documents/Github/easyclick-web-kit/easyclick-web-kit/app/page.tsx"],"sourcesContent":["import Link from \"next/link\";\n\nexport default function Page() {\n  return (\n    <div className=\"mx-auto w-full max-w-4xl px-6 py-12\">\n      <h1 className=\"text-3xl font-semibold\">EasyClick Web Kit</h1>\n      <p className=\"mt-3 text-base text-slate-700\">\n        Scaffold base para construir el sitio y navegar entre secciones clave.\n      </p>\n      <div className=\"mt-6 flex gap-4\">\n        <Link className=\"text-blue-600 underline\" href=\"/servicios\">\n          Ver servicios\n        </Link>\n        <Link className=\"text-blue-600 underline\" href=\"/dispositivos\">\n          Ver dispositivos\n        </Link>\n      </div>\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;AAAA;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;;0BACb,8OAAC;gBAAG,WAAU;0BAAyB;;;;;;0BACvC,8OAAC;gBAAE,WAAU;0BAAgC;;;;;;0BAG7C,8OAAC;gBAAI,WAAU;;kCACb,8OAAC,0LAAI;wBAAC,WAAU;wBAA0B,MAAK;kCAAa;;;;;;kCAG5D,8OAAC,0LAAI;wBAAC,WAAU;wBAA0B,MAAK;kCAAgB;;;;;;;;;;;;;;;;;;AAMvE"}}]
-}
